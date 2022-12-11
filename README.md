@@ -3,7 +3,8 @@
 
 ## 🎨 Layout
 
-
+![image](https://github.com/FelipePetriw/Clone-Spotify/blob/main/imagens/Apresenta%C3%A7%C3%A3o%201.png)
+![image](https://github.com/FelipePetriw/Clone-Spotify/blob/main/imagens/Apresenta%C3%A7%C3%A3o%202.png)
 
 ## 🛠 Tecnologias
 
@@ -17,7 +18,7 @@ Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
 Esse projeto foi elaborado para web. </br>
 Para acessar basta clicar no link abaixo:
 
-
+https://felipepetriw.github.io/Clone-Spotify/
 
 ## 📝 Licença
 
