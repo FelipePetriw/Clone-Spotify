@@ -1,5 +1,5 @@
 # Clone Spotify
- Clone da página inicial da Plataforma de streaming de música Spotify.
+Projeto de clonagem da página inicial da Plataforma de streaming de música Spotify.
 
 ## 💻 Sobre o Projeto
 Desenvolvimento da página inicial do Spotify com layout responsivo utilizando bootstrap4, HTML5 e CSS3.
