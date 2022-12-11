@@ -1,7 +1,4 @@
-# Clone-Spotify
- Desenvolvimento de site clone do Spotify com layout responsivo utilizando tecnologia bootstrap4
-
-# FClone Spotify
+# Clone Spotify
  Desenvolvimento de site clone do Spotify com layout responsivo utilizando bootstrap4, HTML5 e CSS3.
 
 ## 🎨 Layout
